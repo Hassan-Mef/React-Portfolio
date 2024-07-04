@@ -29,7 +29,7 @@ function Hero() {
         />
         <img
           className={styles.colorMode}
-          src={sun}
+          src={themeIcon}
           alt="Color mode icon"
           onClick={toggleTheme}
           
